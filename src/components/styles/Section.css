@@ -1,0 +1,16 @@
+.section {
+  margin-top: 20px;
+  width: 100%;
+}
+
+.section-title {
+  font-size: 24px;
+  margin-bottom: 10px;
+  text-align: left;
+}
+
+.video-grid {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+}

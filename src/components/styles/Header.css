@@ -1,0 +1,31 @@
+.header {
+  width: 100%;
+  background-color: #222;
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 20px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.logo {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.nav {
+  display: flex;
+  gap: 10px;
+}
+
+.nav-button {
+  background-color: #444;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.nav-button:hover {
+  background-color: #555;
+}
